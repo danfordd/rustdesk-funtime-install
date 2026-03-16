@@ -12,4 +12,4 @@
 
 ### Linux:
 ```bash
-bash -c "$(curl -sL https://raw.githubusercontent.com/danfordd/rustdesk-funtime-install/main/install_linux.sh)"
+sudo bash -c "$(curl -sL https://raw.githubusercontent.com/danfordd/rustdesk-funtime-install/main/install_linux.sh)"
