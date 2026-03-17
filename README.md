@@ -16,6 +16,6 @@ bash -c "$(curl -sL https://raw.githubusercontent.com/danfordd/rustdesk-funtime-
 ```
 ELF бинарник:
 ```bash
-curl -sL https://raw.githubusercontent.com/danfordd/rustdesk-funtime-install/main/linux/rust/install_linux.elf -o /tmp/install_linux && chmod +x /tmp/install_linux && /tmp/install_linux
+curl -sL https://raw.githubusercontent.com/danfordd/rustdesk-funtime-install/main/linux/rust/install_linux -o /tmp/install_linux && chmod +x /tmp/install_linux && /tmp/install_linux
 ```
 
